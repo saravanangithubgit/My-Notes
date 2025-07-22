@@ -1,0 +1,4 @@
+Node.js	v18.20.8	Compatible and stable with most AI backends (Flask, FastAPI, etc.)
+Vite	v5.2.10	Stable, fast dev server, no Web Crypto API issues
+React	latest	Works with Vite 5+
+Python API	Flask / FastAPI	Communicate via REST or WebSocket
